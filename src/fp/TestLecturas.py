@@ -37,4 +37,4 @@ print('\nLONGITUD PROMEDIO DE LÍNEAS')
 path4 = input('Introduzca la dirección del archivo : ')
 pathn4:str = '../../' + path4
 
-print(f'La longitud promedio de las líneas en {path4} es de {fun9(pathn4)} caracteres')
+print(f'La longitud promedio de las líneas en {path4} es de {fun9(pathn4)} palabras')
